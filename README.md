@@ -1,3 +1,3 @@
 # CPE310-IE22S1
 Fundamentals of Data Science
-
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRzcTFoeTlqcjQ0M3QxaXl4eWNqajl0eWdqbTlhMWljYTl2Zm1jeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif
