@@ -11,7 +11,7 @@ My journey in Industrial Engineering has equipped me with a deep understanding o
 
 I’m particularly interested in using data science to enhance the efficiency and quality of services, from supply chain management to customer service operations. I aim to bridge the gap between engineering and management by applying data-driven solutions to real-world problems in service industries.
 
-In my free time, I enjoy playing Valorant as a way to unwind and sharpen my strategic thinking.
+In my free time, I enjoy playing Valorant as a way to unwind and sharpen my strategic thinking. I’m also someone who loves drinking black coffee, which helps keep me energized and focused throughout the day.
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdxcG4yczlkNDY0dmE0bDRwbW45aWdmMG5oYnNndW0zZWJkeWkwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tJDpzvizNCLB3LO0Hb/giphy.gif"></p>
 
